@@ -1,5 +1,5 @@
 /* Programmable Voltage Reference V0.8
-For use with Barbouri - Programmable Voltage Reference V2.12 - V3.05 circuit boards
+For use with Barbouri - Programmable Voltage Reference V2.12 - V3.15 circuit boards
 2014 uChip (C. Schnarel) Original software for RevD boards
 2017 Barbouri (G. Christenson) Modified for Teensy 3.2 based board with I2C LED display
 http://www.barbouri.com/2016/07/21/programmable-voltage-reference-v2-12-assembly/
@@ -13,6 +13,11 @@ CC BY-SA 4.0 US
    variables to compensate for Teensy A-D errors
 
 Modified for V2.25 board - LTC1152 enable, onboard -5 supply, serial & button headers
+
+January 2022 - major update for hardware version 3.14 5.000 volt PVR
+  see blog post for more information - updating-the-programmable-voltage-reference-project
+  https://www.barbouri.com
+  
 Include libraries this sketch will use
 */
 #include <SPI.h>                  // part of Arduino - Teensyduino distribution
