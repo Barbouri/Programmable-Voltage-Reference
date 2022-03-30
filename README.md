@@ -29,6 +29,8 @@ Hardware design files are in "CadSoft EAGLE PCB Design Software 7.7" .brd and .s
 The example code is in Arduino / Teensyduino .ino format (text).  A free version of the Arduino software can be downloaded from www.arduino.cc.
 Teensyduino software add-on for the Arduino IDE can be downloaded from https://www.pjrc.com/teensy/teensyduino.html
 
+Front panel was fabricated by "Front Panel Express" using "Front Panel Designer". A free version of the software can be downloaded from https://www.frontpanelexpress.com/front-panel-designer/download
+
 ## Distribution License  
 
 Original design by C. Schnarel 2014 https://github.com/uChip/VoltageReferenceProgrammable
