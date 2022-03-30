@@ -3,7 +3,7 @@ An adjustable 0.001 to 5.000 volt reference, adjustable in 1 mV steps with displ
 ==============================
 
 <img src="PVRFrontPanel2500-1200.JPG" alt="Programmable Voltage Reference with 1 mV resolution and 50 uV accuracy">
-This repository contains the design files and write-up for a Programmable Voltage Reference.  The reference has a range of 1 mV to 5.000 volts in 1 mV steps.  The accuracy is plus or minus 50 uV for any set value.  The reference value is displayed on a 2 X 16 charactor OLED display and can be set manually using the rotary encoder or remotely over the TTL serial to isolated USB 2.0 port.
+This repository contains the design files and write-up for a Programmable Voltage Reference.  The reference has a range of 1 mV to 5.000 volts in 1 mV steps. The accuracy is plus or minus 50 uV for any set value. The reference value is displayed on a 2 X 16 character OLED display and can be set manually using the rotary encoder or remotely over the TTL serial to isolated USB 2.0 port.
 
 The software folder contains an Arduino / Teensyduino sketch that is the source code for the voltage reference firmware.
 
