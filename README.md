@@ -12,9 +12,9 @@ Visit HTTPS://www.barbouri.com for a more detailed explanation of the project de
 You can order this PCB directly from OSH Park.  Click on the following link.  
   * Programmable Voltage Reference - https://oshpark.com/shared_projects/aFUNW4O5 
 
-<img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top" height="619" width="1000">
+<img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top">
 
-<img src="PVRv314boardTop.png" alt="PCB Bottom" height="610" width="1000">
+<img src="PVRv314boardTop.png" alt="PCB Bottom">
 
 See the Bill of Materials (BOM) file in the repo Hardware folder for a parts list.  
 
