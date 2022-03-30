@@ -7,14 +7,14 @@ This repository contains the design files and write-up for a Programmable Voltag
 
 The software folder contains an Arduino / Teensyduino sketch that is the source code for the voltage reference firmware.
 
-Visit HTTPS://www.barbouri.com for a more detailed explanation of the project design.
+Visit https://www.barbouri.com for a more detailed explanation of the project design.
 
 You can order this PCB directly from OSH Park.  Click on the following link.  
-  * Programmable Voltage Reference - https://oshpark.com/shared_projects/aFUNW4O5 
+  * Programmable Voltage Reference - https://oshpark.com
 
 <img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top">
 
-<img src="PVRv314boardTop.png" alt="PCB Bottom">
+<img src="PVRv314boardTop.png" alt="Design Top">
 
 See the Bill of Materials (BOM) file in the repo Hardware folder for a parts list.  
 
