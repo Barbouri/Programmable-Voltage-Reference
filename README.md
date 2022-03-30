@@ -10,7 +10,7 @@ The software folder contains an Arduino / Teensyduino sketch that is the source 
 Visit https://www.barbouri.com for a more detailed explanation of the project design.
 
 You can order this PCB directly from OSH Park.  Click on the following link.  
-  * Programmable Voltage Reference - https://oshpark.com
+  * Programmable Voltage Reference V3.14- https://oshpark.com 3.14
 
 <img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top">
 
@@ -19,7 +19,8 @@ You can order this PCB directly from OSH Park.  Click on the following link.
 See the Bill of Materials (BOM) file in the repo Hardware folder for a parts list.  
 
 ## Status  
-  * Version 3.14 PCB has been tested to be functional.  
+  * Version 3.14 PCB has been tested to be functional.
+  * Version 3.15 PCB is untested with changes to silkscreen values and circuit trace widths.
 
 ## File Formats  
 
