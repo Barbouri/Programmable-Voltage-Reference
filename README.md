@@ -25,10 +25,13 @@ See the Bill of Materials (BOM) file in the repo Hardware folder for a parts lis
 
 Hardware design files are in "CadSoft EAGLE PCB Design Software 7.7" .brd and .sch formats.  A free version of the software can be downloaded from https://www.autodesk.com/products/eagle/free-download.
 
-The example code is in Arduino / Teensyduino .ino format (text).  A free version of the Arduino software can be downloaded from www.arduino.cc.  
+The example code is in Arduino / Teensyduino .ino format (text).  A free version of the Arduino software can be downloaded from www.arduino.cc.
+Teensyduino software add-on for the Arduino IDE can be downloaded from https://www.pjrc.com/teensy/teensyduino.html
 
 ## Distribution License  
 
+Original design by C. Schnarel 2014 https://github.com/uChip/VoltageReferenceProgrammable
+
 License:
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Programmable Voltage Reference</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Barbouri/Programmable_Voltage_Reference" property="cc:attributionName" rel="cc:attributionURL">G. Christenson 2022 / C.Schnarel 2014</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Programmable Voltage Reference</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Barbouri/Programmable-Voltage-Reference" property="cc:attributionName" rel="cc:attributionURL">G. Christenson 2022 / C.Schnarel 2014</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
   
