@@ -10,7 +10,7 @@ The software folder contains an Arduino / Teensyduino sketch that is the source 
 Visit https://www.barbouri.com/2022/03/29/updating-the-programmable-voltage-reference-project/ for a more detailed explanation of the project design.
 
 You can order this PCB directly from OSH Park.  Click on the following link.  
-  * Programmable Voltage Reference V3.14- https://oshpark.com 3.14
+  * Programmable Voltage Reference V3.14- https://oshpark.com/shared_projects/pFu2IAUW
 
 <img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top">
 
