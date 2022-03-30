@@ -14,7 +14,7 @@ You can order this PCB directly from OSH Park.  Click on the following link.
 
 <img src="PVR314BareBoardTopHighContrast10.JPG" alt="PCB Top" height="619" width="1000">
 
-<img src="https://raw.githubusercontent.com/uChip/VoltageReferenceProgrammable/master/RevDbottom.png" alt="PCB Bottom" height="287" width="550">
+<img src="PVRv314boardTop.png" alt="PCB Bottom" height="610" width="1000">
 
 See the Bill of Materials (BOM) file in the repo Hardware folder for a parts list.  
 
