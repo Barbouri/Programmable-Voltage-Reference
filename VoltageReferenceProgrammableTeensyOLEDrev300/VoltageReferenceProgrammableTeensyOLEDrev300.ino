@@ -74,8 +74,8 @@ Bounce bm = Bounce();
 JC_EEPROM eep(JC_EEPROM::kbits_512, 2, 64);      //one 24LC512 EEPROM on the bus - device size, number of devices, page size
   
 // Instantiate objects used in this project
-uint32_t MAXVAL = 5000;    // DAC Maximum value
-uint32_t MINVAL = 1;        // DAC Minimum value
+int16_t MAXVAL = 5000;    // DAC Maximum value
+int16_t MINVAL = 1;        // DAC Minimum value
 
 // LED colors used in LEDcolor()
 uint8_t red = 0x1;
